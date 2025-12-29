@@ -3,7 +3,7 @@ import google.generativeai as genai
 import getpass
 import time
 
-# 1. Configuração de Segurança e API
+# 1. Solicitação da chave da API
 print("--- Sistema de Análise de Sinais Vitais ---")
 api_key = getpass.getpass("Insira sua Google API Key: ")
 
@@ -29,7 +29,7 @@ try:
 
     # 3. Função para interagir com o Gemini
     def analisar_paciente(row):
-        # Montamos a descrição do paciente
+        # Descrevendo o paciente para o agente de IA
         dados = (f"Idade: {row['Idade']}, Sexo: {row['Sexo']}, "
                  f"FC: {row['FC']} bpm, FR: {row['FR']} mpm, "
                  f"SatO2: {row['SatO2']}%, Temp: {row['Temp']}°C")
@@ -39,7 +39,7 @@ try:
         try:
             # Chamada da IA
             response = model.generate_content(prompt)
-            time.sleep(1.5) # Pausa um pouco maior para evitar bloqueios
+            time.sleep(1.5) # Pausa para evitar bloqueios
             return response.text.strip()
         except Exception as e:
             return f"Erro na linha: {e}"
@@ -47,10 +47,10 @@ try:
     # 4. Processamento
     print(f"Analisando {len(df)} pacientes. Isso pode levar alguns minutos...")
     
-    # Criamos a coluna de diagnóstico
+    # Cria uma coluna de diagnóstico
     df['Diagnostico_IA'] = df.apply(analisar_paciente, axis=1)
 
-    # 5. Salvamento
+    # 5. Salva o resultado em um novo CSV
     output_file = 'SSVV_pacientes_analisados.csv'
     df.to_csv(output_file, index=False)
 
