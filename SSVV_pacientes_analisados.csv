@@ -1,0 +1,419 @@
+Nome,id,Idade,Sexo,FC,FR,SatO2,Temp,Diagnostico_IA
+Joao Silva,1,45.0,M,72,16,98,36.5,Condição estável.
+Maria Oliveira,2,0.01,F,145,45,97,36.8,"Prezado(a) avaliador(a),
+
+Com base nos dados fornecidos para um recém-nascido (0.01 anos, sexo feminino):
+
+*   **FC (Frequência Cardíaca):** 145 bpm. Está **dentro da faixa normal** para um recém-nascido (120-160 bpm).
+*   **FR (Frequência Respiratória):** 45 mpm. Está **dentro da faixa normal** para um recém-nascido (30-60 mpm).
+*   **SatO2 (Saturação de Oxigênio):** 97%. Está **normal** (geralmente >95% é aceitável em neonatos após a transição inicial).
+*   **Temp (Temperatura):** 36.8°C. Está **dentro da faixa normal** (36.5°C - 37.5°C).
+
+**Diagnóstico:** Clínicamente estável."
+Carlos Souza,3,30.0,M,115,18,96,37.2,"Olá. Analisando seus dados:
+
+*   **Idade/Sexo:** 30 anos, Masculino - Adulto jovem.
+*   **FC: 115 bpm** - Taquicardia (normal é 60-100 bpm). Este é o dado mais alterado.
+*   **FR: 18 mpm** - Normal (12-20 mpm).
+*   **SatO2: 96%** - Normal (95-100%).
+*   **Temp: 37.2°C** - No limite superior da normalidade (ou uma febrícula muito leve, dependendo do contexto).
+
+**Diagnóstico:**
+Estado febril inicial."
+Ana Costa,4,12.0,F,85,20,99,36.4,"Prezado(a) responsável,
+
+Com base nos parâmetros vitais fornecidos para a paciente de 12 anos de idade, sexo feminino:
+
+*   **FC: 85 bpm** (Frequência cardíaca): Dentro da faixa normal para a idade (normalmente 60-100 bpm em repouso para adolescentes).
+*   **FR: 20 mpm** (Frequência respiratória): Dentro da faixa normal para a idade (normalmente 12-20 mpm para adolescentes, ou até 30 para crianças mais novas).
+*   **SatO2: 99%** (Saturação de oxigênio): Excelente, dentro da faixa normal (95-100%).
+*   **Temp: 36.4°C** (Temperatura): Normal (afebril).
+
+**Diagnóstico:**
+Parâmetros normais."
+Pedro Santos,5,0.02,M,155,55,94,36.1,"Olá. Vamos analisar os sinais vitais deste pequeno paciente.
+
+**Avaliação Médica:**
+
+*   **Idade: 0.02 anos** (equivalente a aproximadamente 7 dias de vida, um neonato) - Crucial para a interpretação dos outros dados.
+*   **Sexo: M**
+*   **FC: 155 bpm:** Dentro do limite superior da normalidade para um neonato (120-160 bpm), mas não taquicárdico.
+*   **FR: 55 mpm:** Dentro do limite superior da normalidade para um neonato (30-60 mpm), mas não taquipneico.
+*   **SatO2: 94%:** Ligeiramente abaixo do ideal para um neonato (geralmente >95%). Indica uma dessaturação leve, que em neonatos é sempre um sinal de alerta.
+*   **Temp: 36.1°C:** Abaixo do normal para um neonato (36.5°C-37.5°C). Indica hiportermia leve.
+
+**Diagnóstico (até 3 palavras):**
+
+Hiportermia e Desaturação."
+Lucia Ferreira,6,65.0,F,55,14,97,35.2,"Olá! Agradeço por compartilhar os dados. Vamos analisar com cuidado.
+
+**Avaliação dos Sinais Vitais:**
+
+*   **Idade: 65.0, Sexo: F:** Paciente idosa, o que sempre requer atenção especial, pois a resposta fisiológica pode ser diferente em comparação com pacientes mais jovens.
+*   **FC: 55 bpm:** A frequência cardíaca está abaixo do normal (bradicardia leve). O valor de referência geralmente é entre 60-100 bpm.
+*   **FR: 14 mpm:** A frequência respiratória está dentro dos limites normais (12-20 mpm).
+*   **SatO2: 97%:** A saturação de oxigênio está excelente, indicando boa oxigenação.
+*   **Temp: 35.2°C:** A temperatura corporal está abaixo do normal (hipotermia leve). O valor de referência geralmente é entre 36.5°C e 37.5°C.
+
+**Impressão Geral:**
+A paciente apresenta uma temperatura corporal abaixo do esperado, acompanhada por uma frequência cardíaca levemente reduzida. Os demais sinais vitais estão normais. A hipotermia e a bradicardia frequentemente coexistem, especialmente em idosos, e podem ser causadas por diversos fatores, incluindo exposição ao frio, medicamentos, ou condições médicas subjacentes.
+
+**Diagnóstico:**
+Hipotermia e Bradicardia"
+Bruno Alves,7,28.0,M,80,10,98,36.6,"**Avaliação Médica:**
+
+Paciente do sexo masculino, 28 anos, apresenta frequência cardíaca, saturação de oxigênio e temperatura dentro dos limites da normalidade para um adulto. A frequência respiratória está ligeiramente abaixo do limite inferior usual (bradpneia leve), mas a excelente saturação de oxigênio (98%) é um indicativo tranquilizador de ventilação pulmonar eficaz.
+
+**Diagnóstico:**
+Parâmetros estáveis."
+Mariana Lima,8,0.05,F,130,40,92,38.5,"Paciente muito jovem (neonato/lactente inicial) apresentando febre e hipoxemia. Os demais sinais vitais estão dentro da normalidade para a idade. A febre em um paciente desta idade é um sinal de alarme crítico.
+
+**Diagnóstico:**
+Febre e hipoxemia."
+Ricardo Pereira,9,50.0,M,68,18,88,36.7,"Como médico, avaliando os dados fornecidos:
+
+*   **Idade (50.0), Sexo (M):** Informações demográficas.
+*   **FC (68 bpm):** Frequência cardíaca normal para um adulto em repouso.
+*   **FR (18 mpm):** Frequência respiratória normal para um adulto.
+*   **SatO2 (88%):** **Anormal**. A saturação de oxigênio esperada em ar ambiente é de 95-100%. 88% é significativamente baixa e indica um problema.
+*   **Temp (36.7°C):** Temperatura corporal normal.
+
+**Diagnóstico:**
+Hipoxemia."
+Fernanda Gomes,10,19.0,F,125,22,99,39.1,"Com base nos dados fornecidos, a paciente de 19 anos apresenta um quadro febril agudo (39.1°C), acompanhado de taquicardia (FC: 125 bpm) e taquipneia leve (FR: 22 mpm). A saturação de oxigênio em 99% é um dado tranquilizador em relação à oxigenação pulmonar imediata.
+
+Esses achados são consistentes com uma **resposta inflamatória sistêmica**, mais comumente desencadeada por um processo infeccioso. É fundamental uma avaliação clínica completa para identificar a fonte da febre e iniciar o tratamento adequado.
+
+**Diagnóstico:** Quadro febril agudo."
+Gabriel Rocha,11,7.0,M,95,24,97,36.9,"Prezado(a) responsável,
+
+Realizei a avaliação dos dados vitais do seu filho, um paciente de 7 anos do sexo masculino.
+
+**Avaliação Médica:**
+
+*   **Idade (7.0 anos):** Paciente em idade escolar, com parâmetros vitais dentro da faixa pediátrica esperada para essa idade.
+*   **FC (95 bpm):** Frequência cardíaca dentro dos limites normais para uma criança de 7 anos (geralmente entre 70-110 bpm).
+*   **FR (24 mpm):** Frequência respiratória dentro dos limites normais para uma criança de 7 anos (geralmente entre 18-30 mpm).
+*   **SatO2 (97%):** Saturação de oxigênio adequada, indicando boa oxigenação.
+*   **Temp (36.9°C):** Temperatura corporal normal, sem evidência de febre.
+
+Baseado exclusivamente nos dados vitais fornecidos, o paciente apresenta-se hemodinamicamente estável e sem alterações significativas.
+
+**Diagnóstico:**
+Vitais Normais"
+Juliana Martins,12,35.0,F,75,16,98,36.4,Clinicamente estável.
+Marcos Dias,13,0.01,M,165,65,95,37.0,"Com os dados fornecidos, a avaliação indica:
+
+*   **Idade:** Recém-nascido (0.01 dias). Este é um fator crucial, pois os parâmetros vitais normais são diferentes.
+*   **FC:** 165 bpm. Para um recém-nascido, a FC normal pode variar entre 100-205 bpm (acordado). 165 bpm está no limite superior do normal, mas não é alarmante por si só.
+*   **FR:** 65 mpm. Para um recém-nascido, a FR normal é geralmente entre 30-60 mpm. 65 mpm é **taquipneia**.
+*   **SatO2:** 95%. Para um recém-nascido, SatO2 >95% é o ideal. 95% é limítrofe e, em conjunto com a taquipneia, é motivo de preocupação.
+*   **Temp:** 37.0°C. Normal para um recém-nascido (36.5-37.5°C).
+
+O achado mais significativo é a taquipneia e a saturação limítrofe, indicando esforço respiratório.
+
+**Diagnóstico:** Angústia Respiratória Neonatal."
+Beatriz Cruz,14,22.0,F,62,12,100,36.5,"Prezada paciente,
+
+Analisando seus parâmetros vitais:
+*   **Idade (22 anos) e Sexo (F):** Dados demográficos para referência.
+*   **FC (62 bpm):** Frequência cardíaca dentro da faixa de normalidade (60-100 bpm), inclusive um bom indicativo de repouso ou condicionamento.
+*   **FR (12 mpm):** Frequência respiratória perfeitamente normal (12-20 mpm).
+*   **SatO2 (100%):** Excelente saturação de oxigênio, indicando ótima oxigenação.
+*   **Temp (36.5°C):** Temperatura corporal normal (36.1-37.2°C).
+
+Com base exclusivamente nestes dados, todos os seus sinais vitais estão dentro dos limites saudáveis para um adulto jovem.
+
+**Diagnóstico:** Sinais Vitais Normais."
+Andre Machado,15,42.0,M,105,20,94,37.8,"**Avaliação Clínica:**
+
+Paciente masculino, 42 anos.
+
+*   **FC (Frequência Cardíaca):** 105 bpm - **Taquicardia leve** (normal: 60-100 bpm).
+*   **FR (Frequência Respiratória):** 20 mpm - **No limite superior da normalidade** (normal: 12-20 mpm).
+*   **SatO2 (Saturação de Oxigênio):** 94% - **Hipoxemia leve** (normal: ≥95% em ar ambiente).
+*   **Temperatura:** 37.8°C - **Estado febril (febre baixa)** (normal: ~36.5-37.5°C).
+
+**Impressão Clínica:**
+O paciente apresenta um quadro febril associado a taquicardia e hipoxemia leve. A frequência respiratória está no limite superior da normalidade. Este conjunto de sinais vitais sugere um processo infeccioso, com comprometimento da oxigenação, frequentemente de origem respiratória. Requer investigação adicional.
+
+**Diagnóstico:**
+Infecção Respiratória Aguda"
+Sofia Ribeiro,16,3.0,F,110,28,97,36.6,"Prezada família,
+
+Como médico, ao avaliar os parâmetros fornecidos para uma criança de 3 anos de idade do sexo feminino:
+
+*   **Idade:** 3.0 anos
+*   **Sexo:** Feminino
+*   **FC (Frequência Cardíaca):** 110 bpm. Este valor está dentro da faixa de normalidade para a idade (geralmente 90-150 bpm para esta faixa etária).
+*   **FR (Frequência Respiratória):** 28 mpm. Este valor também está dentro da faixa de normalidade para a idade (geralmente 22-34 mpm para pré-escolares).
+*   **SatO2 (Saturação de Oxigênio):** 97%. Este é um excelente nível de oxigenação, totalmente dentro da normalidade (acima de 95% em ar ambiente).
+*   **Temp (Temperatura):** 36.6°C. Esta é uma temperatura normal, sem febre.
+
+Baseando-me exclusivamente nos dados vitais apresentados, a paciente encontra-se em uma condição fisiológica adequada.
+
+**Diagnóstico:** Condição estável."
+Lucas Castro,17,27.0,M,70,16,98,36.2,"Olá. Com base nos parâmetros fornecidos:
+
+**Avaliação:**
+*   **Idade:** 27 anos, sexo masculino (jovem adulto).
+*   **FC (Frequência Cardíaca):** 70 bpm (Normal para um adulto, geralmente entre 60-100 bpm).
+*   **FR (Frequência Respiratória):** 16 mpm (Normal para um adulto, geralmente entre 12-20 mpm).
+*   **SatO2 (Saturação de Oxigênio):** 98% (Normal, acima de 95%).
+*   **Temp (Temperatura):** 36.2°C (Normal, geralmente entre 36.1°C e 37.2°C).
+
+**Diagnóstico:**
+
+Condição estável."
+Vitoria Araujo,18,0.03,F,95,35,96,36.7,"Como médico, avalio os seguintes parâmetros:
+
+**Paciente:** Feminina, com aproximadamente 11 dias de vida (0.03 anos).
+
+**Parâmetros Vitais:**
+*   **FC: 95 bpm.** Para um neonato, a frequência cardíaca normal é geralmente entre 100-160 bpm. Este valor está **abaixo** do limite inferior esperado.
+*   **FR: 35 mpm.** Para um neonato, a frequência respiratória normal é geralmente entre 30-60 mpm. Este valor está **dentro da normalidade** (eupnéica).
+*   **SatO2: 96%.** Este valor está **dentro da normalidade** para um neonato em ar ambiente.
+*   **Temp: 36.7°C.** Este valor está **dentro da normalidade** (normotérmica).
+
+**Diagnóstico:**
+Bradicardia Neonatal."
+Thiago Melo,19,55.0,M,48,12,97,36.0,"**Avaliação Médica:**
+
+Paciente do sexo masculino, 55 anos.
+
+*   **FC: 48 bpm** - Abaixo da faixa normal (60-100 bpm) para adultos, indicando bradicardia.
+*   **FR: 12 mpm** - Dentro da faixa normal (12-20 mpm).
+*   **SatO2: 97%** - Dentro da faixa normal (95-100%).
+*   **Temp: 36.0°C** - Ligeiramente abaixo da média, mas frequentemente considerada dentro da variação normal individual ou levemente limítrofe/baixa normal.
+
+**Diagnóstico:** Bradicardia."
+Camila Barbosa,20,31.0,F,82,18,91,36.5,"Prezada paciente,
+
+Com base nos dados fornecidos, sua avaliação dos sinais vitais é a seguinte:
+*   **Idade/Sexo:** 31 anos, Feminino.
+*   **FC (Frequência Cardíaca):** 82 bpm (Dentro da normalidade / Normocardia).
+*   **FR (Frequência Respiratória):** 18 mpm (Dentro da normalidade / Normopneia).
+*   **SatO2 (Saturação de Oxigênio):** 91% (Abaixo do esperado para um indivíduo saudável, indicando hipoxemia leve).
+*   **Temp (Temperatura):** 36.5°C (Dentro da normalidade / Afebril).
+
+**Diagnóstico:**
+Hipoxemia leve.
+
+Recomendo investigação clínica para determinar a causa dessa baixa saturação de oxigênio."
+Enzo Vieira,21,0.01,M,140,50,98,34.8,"Olá. Avaliando os dados fornecidos:
+
+*   **Idade:** 0.01 anos (aproximadamente 3-4 dias de vida). Trata-se de um recém-nascido.
+*   **FC (Frequência Cardíaca):** 140 bpm. Normal para um recém-nascido (100-160 bpm).
+*   **FR (Frequência Respiratória):** 50 mpm. Normal para um recém-nascido (30-60 mpm).
+*   **SatO2 (Saturação de Oxigênio):** 98%. Normal.
+*   **Temp (Temperatura):** 34.8°C. **Anormal.** A temperatura normal para um recém-nascido é de 36.5°C - 37.5°C. Este valor indica hipotermia significativa.
+
+**Diagnóstico:**
+Hipotermia neonatal."
+Larissa Cardoso,22,24.0,F,78,16,99,36.4,"Erro na linha: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 52.057246005s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 52
+}
+]"
+Rafael Teixeira,23,38.0,M,112,24,95,38.2,"Erro na linha: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 51.385323096s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 51
+}
+]"
+Isabela Ramos,24,60.0,F,58,14,96,36.6,"Erro na linha: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 51.019344728s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 51
+}
+]"
+Mateus Cavalcanti,25,10.0,M,88,22,97,36.8,"Erro na linha: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 50.44296744s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 50
+}
+]"
+Amanda Nunes,26,0.02,F,150,70,93,37.1,"Erro na linha: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 50.031638809s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 50
+}
+]"
+Heitor Lima,27,48.0,M,74,18,98,36.3,"Erro na linha: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 49.533317749s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 49
+}
+]"
+Letícia Duarte,28,21.0,F,135,26,97,37.5,"Erro na linha: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 49.093310169s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 49
+}
+]"
+Daniel Farias,29,0.01,M,142,48,90,36.9,"Erro na linha: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 48.541075407s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 48
+}
+]"
+Patricia Mendes,30,40.0,F,80,8,99,36.7,"Erro na linha: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. 
+* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash
+Please retry in 48.086955814s. [links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerDayPerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 20
+}
+, retry_delay {
+  seconds: 48
+}
+]"
