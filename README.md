@@ -1,0 +1,1 @@
+Com esta simples aplicação, o usuário fornece os dados dos sinais vitais de uma lista de pacientes. Através de uma chave API do Google Gemini, é posível avaliar esses dados e resultar uma interpretação rápida dos diagnósticos.
